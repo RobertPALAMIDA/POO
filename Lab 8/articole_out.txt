@@ -1,0 +1,4 @@
+Producator: Pop, Denumire: PixM, Pret: 25, Culoare:rosie, Durata de viata: 2
+Producator: aaaa, Denumire: creionN, Pret: 200, Tip mina :b3
+Producator: prod1, Denumire: creion, Pret: 100, Tip mina :b4
+Producator: prod2, Denumire: pix, Pret: 150, Culoare:albastru, Durata de viata: 1
